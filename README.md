@@ -1,7 +1,7 @@
-##React.js Facebook Clone
+<h1>React.js Facebook Clone</h1>
 
 
-![alt text](thumbnail/thumbnail.png)
+![alt text](thumbnail/test.png)
 A modern, responsive Facebook-like social media interface built with React.js, designed to simulate core Facebook features in a clean and functional way.
 
 ✨ Features
