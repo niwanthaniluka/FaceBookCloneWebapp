@@ -1,0 +1,69 @@
+.addPostPic {
+  width: 32px;
+  height: 32px;
+  object-fit: cover;
+  border-radius: 50px;
+}
+
+.addPost {
+  width: 95%;
+  border-radius: 10px;
+
+  height: 180px;
+  margin-top: 10px;
+  margin-left: 10px;
+  -webkit-box-shadow: 5px 5px 13px 5px rgba(0, 0, 0, 0.14);
+  box-shadow: 5px 5px 13px 5px rgba(0, 0, 0, 0.14);
+}
+
+.addPostContainer {
+  padding: 15px;
+}
+
+.addPostTop {
+  display: flex;
+  align-items: center;
+}
+
+.addPostInput {
+  border: none;
+  width: 80%;
+  margin-left: 10px;
+}
+
+.addPostInput:focus {
+  outline: none;
+}
+
+.postHr {
+  margin: 20px;
+}
+
+.addPostBottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.addPostOptions {
+  display: flex;
+  margin-left: 40px;
+}
+
+.addPostOption {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  margin-right: 16px;
+}
+
+.addPostButton {
+  border: none;
+  padding: 7px;
+  border-radius: 5px;
+  background-color: #1877f2;
+  color: white;
+  cursor: pointer;
+ 
+  
+}
