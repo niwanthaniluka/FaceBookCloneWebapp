@@ -1,6 +1,6 @@
 # React.js the Facebook Clone
+<img src="test.png" alt="E-Channeling System" width="400" height="300">
 
-![alt text](test.png)
 - A modern, responsive Facebook-like social media interface built with React.js, designed to simulate core Facebook features in a clean and functional way.
 
 ---
