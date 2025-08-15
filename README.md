@@ -5,7 +5,7 @@ A modern, responsive Facebook-like social media interface built with React.js, d
 
 ---
 
-✨ Features
+## ✨Features
 
 🏠 Home Feed – View posts with images, text, and timestamps.
 👤 User Profile – Profile picture, basic details, and post history.
@@ -16,16 +16,16 @@ A modern, responsive Facebook-like social media interface built with React.js, d
 
 ---
 
-🛠 Tech Stack
+## 🛠Tech Stack
 - Frontend: React.js, JSX, CSS
 - State Management: useState, useEffect
 - Styling: CSS Modules / Tailwind (optional)
 - Icons: React Icons / custom SVGs
 
-🎯 Purpose
+## 🎯Purpose
 - This project was created as part of my learning journey in React.js, focusing on component-based UI, state management, and responsive web design.
 
-#📌 Future Improvements
+## 📌Future Improvements
 -Implement Firebase for real-time data storage.
 -Enable real-time chat and notifications.
 
