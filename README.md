@@ -1,22 +1,23 @@
 # React.js the Facebook Clone
 
 ![alt text](test.png)
-A modern, responsive Facebook-like social media interface built with React.js, designed to simulate core Facebook features in a clean and functional way.
+- A modern, responsive Facebook-like social media interface built with React.js, designed to simulate core Facebook features in a clean and functional way.
 
 ---
 
 ## ✨Features
 
-🏠 Home Feed – View posts with images, text, and timestamps.
-👤 User Profile – Profile picture, basic details, and post history.
-💬 Comments & Likes – Interact with posts through real-time reactions.
-📷 Image Upload – Add images to posts dynamically.
-😍 Reaction Emojis – Facebook-style reaction icons.
-📱 Responsive Design – Works seamlessly on mobile, tablet, and desktop.
+- 🏠 Home Feed – View posts with images, text, and timestamps.
+- 👤 User Profile – Profile picture, basic details, and post history.
+- 💬 Comments & Likes – Interact with posts through real-time reactions.
+- 📷 Image Upload – Add images to posts dynamically.
+- 😍 Reaction Emojis – Facebook-style reaction icons.
+- 📱 Responsive Design – Works seamlessly on mobile, tablet, and desktop.
 
 ---
 
 ## 🛠Tech Stack
+
 - Frontend: React.js, JSX, CSS
 - State Management: useState, useEffect
 - Styling: CSS Modules / Tailwind (optional)
@@ -26,6 +27,6 @@ A modern, responsive Facebook-like social media interface built with React.js, d
 - This project was created as part of my learning journey in React.js, focusing on component-based UI, state management, and responsive web design.
 
 ## 📌Future Improvements
--Implement Firebase for real-time data storage.
--Enable real-time chat and notifications.
+- Implement Firebase for real-time data storage.
+- Enable real-time chat and notifications.
 
